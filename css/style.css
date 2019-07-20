@@ -1,0 +1,29 @@
+nav {
+    background: black;
+}
+body {
+    /*height: 1000px;*/
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main {
+    flex: 1 0 auto;
+}
+.row{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.carousel .indicators .indicator-item {
+    height: 15px;
+    width: 15px;
+}
+.parallax-containe {
+    height: 300px;
+}
+.page-footer {
+    background-color: black;
+}
+.footer-copyright {
+    background-color: black;
+}
